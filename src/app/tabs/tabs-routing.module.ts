@@ -28,7 +28,7 @@ const routes: Routes = [
   },
   {
     path: '',
-    redirectTo: '/tabs/tab1',
+    redirectTo: '/tabs/tab1', //indica a donde tiene que ir al inicio / home
     pathMatch: 'full'
   }
 ];

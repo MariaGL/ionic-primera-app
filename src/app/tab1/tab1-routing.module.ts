@@ -14,3 +14,5 @@ const routes: Routes = [
   exports: [RouterModule]
 })
 export class Tab1PageRoutingModule {}
+
+// Archivo de rutas que define el path para entrar a esta pantalla.
